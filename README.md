@@ -18,6 +18,7 @@
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;
