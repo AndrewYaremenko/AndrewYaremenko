@@ -37,7 +37,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contact with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/andrew-yaremenko-%F0%9F%87%BA%F0%9F%87%A6-334b5424b/"><img src="https://img.shields.io/badge/-Andrew%20Yaremenko-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
