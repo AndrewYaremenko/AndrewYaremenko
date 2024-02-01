@@ -31,7 +31,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AndrewYaremenko">
+<a href="https://github.com/AndriyYaremenkoDev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndrewYaremenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndrewYaremenko&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -40,6 +40,6 @@
 ### 🤝🏻 &nbsp;Contact with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/andrew-yaremenko-%F0%9F%87%BA%F0%9F%87%A6-334b5424b/"><img src="https://img.shields.io/badge/-Andrew%20Yaremenko-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/andriy-yaremenko-🇺🇦-334b5424b"><img src="https://img.shields.io/badge/-Andriy%20Yaremenko-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:andrewyaremenko19@gmail.com"><img src="https://img.shields.io/badge/-andrewyaremenko19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
